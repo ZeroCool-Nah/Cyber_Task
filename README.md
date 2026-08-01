@@ -10,7 +10,7 @@ This repository contains detailed notes, screenshots, commands, and key takeaway
 
 | Room | Category | Description | Link |
 |------|----------|-------------|------|
-| Linux Fundamentals Part 1 | Linux | Learn basic Linux commands, file navigation, permissions, and shell operators. | [📂 View](./Linux_Fundamentals/) |
+| Linux Fundamentals Part 1 | Linux | Learn basic Linux commands, file navigation, permissions, and shell operators. | [📂 View](./LInux_Fundamentals/) |
 | Intro to LAN | Networking | Learn LAN topologies, subnetting, ARP, DHCP, routers, and switches. | [📂 View](./Intro_to_LAN/) |
 | What is Networking? | Networking | Learn networking basics, IP addresses, MAC addresses, IPv4, IPv6, and ICMP. | [📂 View](./Networking/) |
 
