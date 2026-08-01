@@ -273,7 +273,12 @@ The `>>` operator appends new content without deleting the existing content.
 - Using Linux for cybersecurity tasks
 
 ---
+---
+# Screenshots 
 
+
+---
+---
 ## Conclusion
 
 Linux Fundamentals Part 1 provided a solid introduction to the Linux command line. The exercises strengthened my understanding of basic commands that are frequently used in penetration testing, cybersecurity, and system administration. These skills form the foundation for more advanced Linux and ethical hacking topics.
