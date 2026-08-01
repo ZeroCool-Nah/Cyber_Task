@@ -259,7 +259,14 @@ During this room I learned:
 ---
 ---
 # Screenshots 
-
+## Networking
+![Networking](NET_images/image1.png)
+## Internet 
+![Internet](NET_images/image2.png)
+## Identify Device on Network
+![Identify Device on network](NET_images/image3.png)
+## Ping
+![Ping](NET_images/image4.png)
 ---
 
 # Conclusion
