@@ -242,7 +242,13 @@ DORA
 # Screenshots
 
 ## LAN Topologies 
-![LAN Topologies](LAN_images
+![LAN Topologies](LAN_images/image1.png)
+## SUbnetting
+![Subnetting](LAN_images/image2.png)
+## ARP
+![ARP](LAN_images/image3.png)
+## DHCP
+![DHCP](LAN_images/image4.png)
 
 ---
 
