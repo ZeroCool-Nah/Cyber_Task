@@ -275,8 +275,16 @@ The `>>` operator appends new content without deleting the existing content.
 ---
 ---
 # Screenshots 
-
-
+## Instance Starting
+![Instance starting](screenshots/image1.png)
+## echo and whoami
+![echo and whoami](screenshots/image2.png)
+## Command Basics
+![Command Basics](screenshots/image3.png)
+## find and grip
+![find and grip](screenshots/image4.png)
+## Operators
+![Operators](screenshots/image5.png)
 ---
 ---
 ## Conclusion
