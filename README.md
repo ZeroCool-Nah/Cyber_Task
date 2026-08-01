@@ -76,10 +76,6 @@ TryHackMe/
 |-----------|----------------:|
 | Linux | 1 |
 | Networking | 2 |
-| Web | 0 |
-| Windows | 0 |
-| Offensive Security | 0 |
-
 ---
 
 ## 👨‍💻 Author
